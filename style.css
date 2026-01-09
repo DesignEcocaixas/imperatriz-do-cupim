@@ -51,7 +51,7 @@ body {
 /*ALTERA AS CORES DO CONTORNO DA LOGO*/
 .logo img {
     width: 200px;
-    margin-top: 20px;
+    margin-top: 50px;
     /*filter: drop-shadow(0 0 10px #f4ee04) drop-shadow(0 0 5px #f4ee04) drop-shadow(0 0 5px #f4ee04);*/
 }
 
